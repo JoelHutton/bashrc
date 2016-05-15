@@ -119,3 +119,4 @@ bind '"\e0A": history-search-backward'
 bind '"\e0B": history-search-forward'
 
 mesg n
+export EDITOR=vim
